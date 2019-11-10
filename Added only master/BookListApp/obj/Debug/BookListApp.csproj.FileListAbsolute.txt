@@ -1,0 +1,10 @@
+E:\BITM Dot Net\Day05\BookListApp\BookListApp\bin\Debug\BookListApp.exe.config
+E:\BITM Dot Net\Day05\BookListApp\BookListApp\bin\Debug\BookListApp.exe
+E:\BITM Dot Net\Day05\BookListApp\BookListApp\bin\Debug\BookListApp.pdb
+E:\BITM Dot Net\Day05\BookListApp\BookListApp\obj\Debug\BookListApp.csprojAssemblyReference.cache
+E:\BITM Dot Net\Day05\BookListApp\BookListApp\obj\Debug\BookListApp.BookDatabase.resources
+E:\BITM Dot Net\Day05\BookListApp\BookListApp\obj\Debug\BookListApp.Properties.Resources.resources
+E:\BITM Dot Net\Day05\BookListApp\BookListApp\obj\Debug\BookListApp.csproj.GenerateResource.cache
+E:\BITM Dot Net\Day05\BookListApp\BookListApp\obj\Debug\BookListApp.csproj.CoreCompileInputs.cache
+E:\BITM Dot Net\Day05\BookListApp\BookListApp\obj\Debug\BookListApp.exe
+E:\BITM Dot Net\Day05\BookListApp\BookListApp\obj\Debug\BookListApp.pdb
